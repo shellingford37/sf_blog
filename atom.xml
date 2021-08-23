@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/shellingford37/sf_blog.git</id>
+    <id>https://shellingford37.github.io/sf_blog/</id>
     <title>Gridea</title>
-    <updated>2021-08-23T03:25:51.468Z</updated>
+    <updated>2021-08-23T03:31:09.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/shellingford37/sf_blog.git"/>
-    <link rel="self" href="https://github.com/shellingford37/sf_blog.git/atom.xml"/>
+    <link rel="alternate" href="https://shellingford37.github.io/sf_blog/"/>
+    <link rel="self" href="https://shellingford37.github.io/sf_blog/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/shellingford37/sf_blog.git/images/avatar.png</logo>
-    <icon>https://github.com/shellingford37/sf_blog.git/favicon.ico</icon>
+    <logo>https://shellingford37.github.io/sf_blog/images/avatar.png</logo>
+    <icon>https://shellingford37.github.io/sf_blog/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/shellingford37/sf_blog.git/post/hello-gridea/</id>
-        <link href="https://github.com/shellingford37/sf_blog.git/post/hello-gridea/">
+        <id>https://shellingford37.github.io/sf_blog/post/hello-gridea/</id>
+        <link href="https://shellingford37.github.io/sf_blog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
